@@ -1,0 +1,170 @@
+[
+  {
+    "name": "3D Illusion Led Lamp",
+    "desc": "🔸 You can light up an attractive table lamp in 16 different colors. Automatic color change will occur. The color will change in slow motion, which will protect your eyes. You can fix any one color as per your preference. You can sleep with it on at night. It can be controlled with a remote. You can turn it on/off with a touch button. You can adjust the brightness with the remote. It can be powered by pencil batteries or USB.",
+    "price": 1500,
+    "categories": ["3D LED Lamp"],
+    "img": "https://i.ibb.co/3S1gvbc/418545952-790761633064504-9097513681490268045-n.jpg"
+  },
+  {
+    "name": "3d Led Promise Lamp",
+    "desc": "🔸 You can light up an attractive table lamp in 16 different colors. Automatic color change will occur. The color will change in slow motion, which will protect your eyes. You can fix any one color as per your preference. You can sleep with it on at night. It can be controlled with a remote. You can turn it on/off with a touch button. You can adjust the brightness with the remote. It can be powered by pencil batteries or USB.",
+    "price": 1000,
+    "categories": ["3D LED Lamp"],
+    "img": "https://i.ibb.co/K6RnSHC/415599485-788331176640883-341436855787762782-n.jpg"
+  },
+  {
+    "name": "Wall lights 1",
+    "desc": "Let your house shine with light. Our products can completely change the decor of your home ❤️💡💎. For more details, call us: 01974455407",
+    "price": 5000,
+    "categories": ["Wall lights", "Ceiling lights", "Outdoor lights"],
+    "img": "https://i.ibb.co/mCpgtrL/317086569-530643369076333-1963825682357311177-n.jpg"
+  },
+  {
+    "name": "Hanging lights 1",
+    "desc": "Let your house shine with light. Our products can completely change the decor of your home ❤️💡💎. For more details, call us: 01974455407",
+    "price": 2000,
+    "categories": ["Hanging lights", "Ceiling lights"],
+    "img": "https://i.ibb.co/N317W2f/316812470-530643265743010-146710616220404654-n.jpg"
+  },
+  {
+    "name": "Hanging lights 2",
+    "desc": "Let your house shine with light. Our products can completely change the decor of your home ❤️💡💎. For more details, call us: 01974455407",
+    "price": 2000,
+    "categories": ["Hanging lights", "Ceiling lights"],
+    "img": "https://i.ibb.co/TT2xn9d/316812541-530643319076338-2032091399103990257-n.jpg"
+  },
+  {
+    "name": "Chandeliers light 1",
+    "desc": "Let your house shine with light. Our products can completely change the decor of your home ❤️💡💎. For more details, call us: 01974455407",
+    "price": 30000,
+    "categories": ["Chandeliers lights", "Hanging lights", "Ceiling lights"],
+    "img": "https://i.ibb.co/8KzTXZh/316825272-530643472409656-1269232808254149526-n.jpg"
+  },
+  {
+    "name": "Chandeliers light 2",
+    "desc": "Let your house shine with light. Our products can completely change the decor of your home ❤️💡💎. For more details, call us: 01974455407",
+    "price": 30003,
+    "categories": ["Chandeliers lights", "Ceiling lights"],
+    "img": "https://i.ibb.co/pR9LsR5/316942818-530643335743003-645814968217669029-n.jpg"
+  },
+  {
+    "name": "Chandeliers lights 3",
+    "desc": "Let your house shine with light. Our products can completely change the decor of your home ❤️💡💎. For more details, call us: 01974455407",
+    "price": 35000,
+    "categories": ["Chandeliers lights", "Ceiling lights"],
+    "img": "https://i.ibb.co/8xNrPSL/316835159-530643395742997-4726331742973910791-n.jpg"
+  },
+  {
+    "name": "Wall lights 2",
+    "desc": "Let your house shine with light. Our products can completely change the decor of your home ❤️💡💎. For more details, call us: 01974455407",
+    "price": 2000,
+    "categories": ["Wall lights", "Outdoor lights"],
+    "img": "https://i.ibb.co/Fn7CfsM/316828705-530643359076334-4549643060316364920-n.jpg"
+  },
+  {
+    "name": "Hanging lights 3",
+    "desc": "Let your house shine with light. Our products can completely change the decor of your home ❤️💡💎. For more details, call us: 01974455407",
+    "price": 2000,
+    "categories": ["Hanging lights"],
+    "img": "https://i.ibb.co/3WMT3gZ/317070538-530643445742992-4109920889685512010-n.jpg"
+  },
+  {
+    "name": "Wall lights 3",
+    "desc": "Let your house shine with light. Our products can completely change the decor of your home ❤️💡💎. For more details, call us: 01974455407",
+    "price": 2000,
+    "categories": ["Wall lights", "Outdoor lights"],
+    "img": "https://i.ibb.co/1f7px1Q/316822103-530643569076313-1372876707422595531-n.jpg"
+  },
+  {
+    "name": "Basin Light 1",
+    "desc": "Let your house shine with light. Our products can completely change the decor of your home ❤️💡💎. For more details, call us: 01974455407",
+    "price": 20000,
+    "categories": ["Ceiling lights", "Outdoor lights", "Basin Light"],
+    "img": "https://i.ibb.co/N7gWpkn/317089028-530643499076320-7685370017299192224-n.jpg"
+  },
+  {
+    "name": "Chandeliers lights 4",
+    "desc": "Let your house shine with light. Our products can completely change the decor of your home ❤️💡💎. For more details, call us: 01974455407",
+    "price": 35000,
+    "categories": ["Chandeliers lights", "Ceiling lights"],
+    "img": "https://i.ibb.co/2sDkSJn/316944420-530643562409647-318708298246746952-n.jpg"
+  },
+  {
+    "name": "Wall lights 4",
+    "desc": "Let your house shine with light. Our products can completely change the decor of your home ❤️💡💎. For more details, call us: 01974455407",
+    "price": 1999,
+    "categories": ["Wall lights", "Outdoor lights"],
+    "img": "https://i.ibb.co/1TMJ9jr/316818870-530643639076306-5945892239173883656-n.jpg"
+  },
+  {
+    "name": "Color change Desk Lamp",
+    "desc": "Let your house shine with light. Our products can completely change the decor of your home ❤️💡💎. For more details, call us: 01974455407",
+    "price": 2000,
+    "categories": ["Table Lamp", "Desk Lamp"],
+    "img": "https://i.ibb.co/CM8Zwsk/294246370-1219856388799635-7265819068465618094-n.jpg"
+  },
+  {
+    "name": "Flower Desk lamp",
+    "desc": "Let your house shine with light. Our products can completely change the decor of your home ❤️💡💎. For more details, call us: 01974455407",
+    "price": 2000,
+    "categories": ["Desk Lamp"],
+    "img": "https://i.ibb.co/7rYs1dJ/316952550-530644175742919-968177675492420476-n.jpg"
+  },
+  {
+    "name": "Sport Light",
+    "desc": "Let your house shine with light. Our products can completely change the decor of your home ❤️💡💎. For more details, call us: 01974455407",
+    "price": 2500,
+    "categories": ["Outdoor lights", "spot light", "Basin Light"],
+    "img": "https://i.ibb.co/1zrKWbN/316832104-530644225742914-2057634413614397903-n.jpg"
+  },
+  {
+    "name": "Pendant lights 1",
+    "desc": "Let your house shine with light. Our products can completely change the decor of your home ❤️💡💎. For more details, call us: 01974455407",
+    "price": 40000,
+    "categories": ["Chandeliers lights", "Pendant lights", "Hanging lights"],
+    "img": "https://i.ibb.co/HGYz7dc/263603276-1077377629714179-5789385348366095193-n.jpg"
+  },
+  {
+    "name": "Ceiling lights 1",
+    "desc": "Let your house shine with light. Our products can completely change the decor of your home ❤️💡💎. For more details, call us: 01974455407",
+    "price": 34000,
+    "categories": ["Chandeliers lights", "Ceiling lights"],
+    "img": "https://i.ibb.co/yQ7N1Cz/247320234-1049959479122661-5410004643907476501-n.jpg"
+  },
+  {
+    "name": "Hanging lights House model",
+    "desc": "Let your house shine with light. Our products can completely change the decor of your home ❤️💡💎. For more details, call us: 01974455407",
+    "price": 3500,
+    "categories": ["Chandeliers lights", "Hanging lights"],
+    "img": "https://i.ibb.co/Q6MYPT6/246011992-1049946742457268-7109318325278362855-n.jpg"
+  },
+  {
+    "name": "Hanging lights Ring",
+    "desc": "Let your house shine with light. Our products can completely change the decor of your home ❤️💡💎. For more details, call us: 01974455407",
+    "price": 1700,
+    "categories": ["Hanging lights"],
+    "img": "https://i.ibb.co/c1hd3v0/242831308-1032953164156626-231577780638330136-n.jpg"
+  },
+  {
+    "name": "Wall lights Ups & Down",
+    "desc": "Let your house shine with light. Our products can completely change the decor of your home ❤️💡💎. For more details, call us: 01974455407",
+    "price": 3400,
+    "categories": ["Wall lights", "Desk Lamp"],
+    "img": "https://i.ibb.co/T8Vw64d/241276096-1020948545357088-7858690252762746893-n.jpg"
+  },
+  {
+    "name": "Pendant lights 2",
+    "desc": "Let your house shine with light. Our products can completely change the decor of your home ❤️💡💎. For more details, call us: 01974455407",
+    "price": 34000,
+    "categories": ["Chandeliers lights", "Pendant lights", "Hanging lights"],
+    "img": "https://i.ibb.co/5Bnv9pV/218050232-1003005097151433-6549695448670703099-n.jpg"
+  },
+  {
+    "name": "Pendant lights 3",
+    "desc": "Let your house shine with light. Our products can completely change the decor of your home ❤️💡💎. For more details, call us: 01974455407",
+    "price": 34000,
+    "categories": ["Chandeliers lights", "Pendant lights", "Hanging lights"],
+    "img": "https://i.ibb.co/gg4jHfR/225467496-995430414575568-1629531284596102853-n.jpg"
+  }
+]

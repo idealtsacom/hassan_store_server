@@ -1,0 +1,31 @@
+{
+  "name": "hassan-store-server-v-1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "A serverless Node.js application for Vercel",
+  "dependencies": {
+    "cors": "*",
+    "dotenv": "*",
+    "express": "*",
+    "joi": "*",
+    "jsonwebtoken": "*",
+    "mongodb": "*",
+    "mongoose": "*",
+    "validator": "*"
+  },
+  "devDependencies": {
+    "nodemon": "*"
+  },
+  "type": "module",
+  "engines": {
+    "node": "*"
+  }
+}
