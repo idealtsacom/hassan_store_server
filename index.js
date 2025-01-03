@@ -50,12 +50,12 @@ mongoose
 
 // Routes
 // Use the imported routes with specific paths
-app.use("/categories", categoriesRoutes);
-app.use("/products", productsRoutes);
-app.use("/orders", ordersRoutes);
-app.use("/users", usersRoutes);
-app.use("/carts", cartRoutes);
-app.post("/jwt", async (req, res) => {
+app.use("/api/categories", categoriesRoutes);
+app.use("/api/products", productsRoutes);
+app.use("/api/orders", ordersRoutes);
+app.use("/api/users", usersRoutes);
+app.use("/api/carts", cartRoutes);
+app.post("/api/jwt", async (req, res) => {
   const user = req.body;
   const token = jwt.sign(user, process.env.ACCESS_TOKEN_SECRET, {
     expiresIn: "10d",
