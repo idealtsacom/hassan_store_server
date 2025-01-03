@@ -22,7 +22,14 @@ const app = express();
 const port = process.env.PORT || 5000;
 
 // Middleware
-app.use(cors());
+// Configure CORS
+app.use(
+  cors({
+    origin: "https://hassan-store-client.vercel.app", // Client origin
+    methods: ["GET", "POST", "PUT", "DELETE"],
+    credentials: true, // If cookies or authentication are involved
+  })
+);
 app.use(express.json());
 
 // MongoDB connection setup
