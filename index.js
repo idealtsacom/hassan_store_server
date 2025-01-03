@@ -25,24 +25,17 @@ const port = process.env.PORT || 5000;
 // Configure CORS
 app.use(
   cors({
-    origin: (origin, callback) => {
-      const allowedOrigins = ["http://localhost:3000", "https://hassan-store-client.vercel.app"];
-      if (!origin || allowedOrigins.includes(origin)) {
-        callback(null, true);
-      } else {
-        callback(new Error("Not allowed by CORS"));
-      }
-    },
+    origin: "*", // Client origin
     methods: ["GET", "POST", "PUT", "DELETE"],
-    credentials: true,
+    credentials: true, // If cookies or authentication are involved
   })
 );
-
-app.use((req, res, next) => {
-  res.setHeader("Access-Control-Allow-Headers", "Content-Type, Authorization");
-  next();
+app.options("*", (req, res) => {
+  res.setHeader("Access-Control-Allow-Origin", "*");
+  res.setHeader("Access-Control-Allow-Methods", "GET, POST, PUT, DELETE");
+  res.setHeader("Access-Control-Allow-Headers", "Content-Type");
+  res.status(200).end();
 });
-
 
 app.use(express.json());
 
