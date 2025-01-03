@@ -30,6 +30,13 @@ app.use(
     credentials: true, // If cookies or authentication are involved
   })
 );
+app.options("*", (req, res) => {
+  res.setHeader("Access-Control-Allow-Origin", "https://hassan-store-client.vercel.app");
+  res.setHeader("Access-Control-Allow-Methods", "GET, POST, PUT, DELETE");
+  res.setHeader("Access-Control-Allow-Headers", "Content-Type");
+  res.status(200).end();
+});
+
 app.use(express.json());
 
 // MongoDB connection setup
